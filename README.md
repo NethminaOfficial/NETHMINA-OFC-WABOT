@@ -11,7 +11,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=500&lines=NETHMINA=OFC+WA=BOT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=500&lines=NETHMINA+OFC+WA+BOT" alt="Typing SVG" /></a>
 
  <p align="center">
 <a href="https://github.com/NethminaOfficial">
@@ -81,7 +81,7 @@
 
 -------------
 
-<p align="left"><a href="https://repl.it/github/SILENTLOVER40/SILENT-SOBX-MD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<p align="left"><a href="https://replit.com/@nethminaofc/NETHMINA-OFC-WABOT"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------------
 
@@ -173,18 +173,14 @@ jobs:
 <br>
 <br>
 
-## 👑 **`QUEEN-RASHMI-MD BOT OWNERS,`** 👑
+## 👑 **`NETHMINA-OFC WABOT OWNERS,`** 👑
 
 
    <a href="https://github.com/NethminaOfficial/"><img src="https://telegra.ph/file/7dd5b186621993e20b73b.jpg" width=80 height=80></a>
-   
-   <a href="https://github.com/QueenRashmiMD/"><img src="https://i.ibb.co/bQRkY2R/cd97783d8ad3a600.jpg" width=80 height=80></a>
 
 ---
 
 |**[`Bhashitha Nethmina (NethminaOFC)`](https://github.com/NethminaOFC)**|
-
-|**[`Tharuwa MD`](https://github.com/thruwamd200489)**|
 
 ---
 
@@ -197,8 +193,3 @@ jobs:
 ## Powered By Nethmina OFC Cmmunity ™ 🎈
 
 <br>
-<br>
-
-`Released date:- ---------`
-<br>
-`latest updated date:- --------`
