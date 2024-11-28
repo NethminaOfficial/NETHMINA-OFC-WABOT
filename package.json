@@ -1,12 +1,12 @@
 {
-    "name": "QUEEN-RASHMI-MD",
+    "name": "NETHMINA-OFC WABOT",
   "version": "1.0.0",
-  "description": "QUEEN-RASHMI-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "description": "NETHMINA-OFC WABOT has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name QUEEN-RASHMI-MD",
-    "stop": "pm2 stop QUEEN-RASHMI-MD",
-    "restart": "pm2 restart QUEEN-RASHMI-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name NETHMINA-OFC WABOT",
+    "stop": "pm2 stop NETHMINA-OFC WABOT",
+    "restart": "pm2 restart NETHMINA-OFC WABOT"
    },
   "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
