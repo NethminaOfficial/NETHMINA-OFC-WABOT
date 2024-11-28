@@ -178,11 +178,8 @@ jobs:
 
    <a href="https://github.com/NethminaOfficial/"><img src="https://telegra.ph/file/7dd5b186621993e20b73b.jpg" width=80 height=80></a>
 
----
 
 |**[`Bhashitha Nethmina (NethminaOFC)`](https://github.com/NethminaOFC)**|
-
----
 
 ---
 
