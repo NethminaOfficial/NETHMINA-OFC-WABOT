@@ -1,0 +1,67 @@
+{
+  "name": "NETHMINA-OFC WABOT",
+  "description": "NETHMINA-OFC WABOT has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "logo": "https://telegra.ph/file/6437d9ac01c94cee08070.jpg",
+  "keywords": ["bot"],
+  "success_url": "/",
+
+  "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true
+    }
+
+    "AUTO_READ_STATUS": {
+      "description": "Make it true if you want bot auto auto_read_status.",
+      "required": true,
+      "value": "true"
+    }
+
+    "AUTO_VOICE": {
+      "Make it true if you want bot auto voice.",
+      "required": true
+    }
+
+    "AUTO_STICKER": {
+      "Make it true if you want bot auto sticker.",
+      "required": true
+    }
+
+    "AUTO_REPLY": {
+      "Make it true if you want bot auto reply.",
+      "required": true
+    }
+
+    "AUTO_REACT": {
+      "description": "Make it true if you want bot AutoReact.",
+      "required": true,
+      "value": "true"
+    }
+
+    "OWNER_REACT": {
+      "description": "Make it true if you want bot OwnerReact.",
+      "required": true,
+      "value": "true"
+    
+    }
+
+    "HEART_REACT": {
+      "description": "Make it true if you want bot only heart ♥️ emjois reaction .",
+      "required": true,
+      "value": "false"
+    }
+
+    "MODE": {
+      "description": "select your bot work type public-private-inbox-group.",
+      "required": true,
+      "value": "public"
+    }
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
